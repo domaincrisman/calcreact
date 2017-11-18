@@ -1,14 +1,14 @@
-class Label extends React.Component {
+export class Label extends React.Component {
   render () {
     return (
       <div>
-        <div>{this.props.label}</div>
+        <h1>{this.props.label}</h1>
       </div>
-    );
+    )
   }
 }
 
 Label.propTypes = {
   label: PropTypes.string
-};
+}
 
