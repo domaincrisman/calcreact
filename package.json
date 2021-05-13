@@ -8,7 +8,7 @@
     "prop-types": "^15.6.0",
     "react": "^16.1.1",
     "react-datetime": "^2.11.0",
-    "react-dom": "^16.1.1"
+    "react-dom": "^16.1.2"
   },
   "devDependencies": {
     "webpack-dev-server": "^2.9.4"
